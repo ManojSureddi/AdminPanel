@@ -1,0 +1,2 @@
+[21-Oct-2014 18:12:34 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/sourcenx/public_html/gmf/admin1/changeempstatus.php on line 26
+[21-Oct-2014 18:12:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sourcenx/public_html/gmf/admin1/changeempstatus.php on line 27
